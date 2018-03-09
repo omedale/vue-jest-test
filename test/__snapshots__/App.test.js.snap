@@ -7,15 +7,9 @@ exports[`App.test.js has the expected html structure 1`] = `
   <img
     src="./assets/logo.png"
   />
-
-  <ul>
-    <li>
-
-        Cat
-
-    </li>
-  </ul>
-
+   
+  <!---->
+   
   <router-view />
 </div>
 `;
